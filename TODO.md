@@ -1,7 +1,7 @@
 # 📝 TODO List - YouTube Playlist Player
 
 ## Módulo 1: Setup e Interface Base
-- [ ] Criar estrutura base com Flet e repositório Git (`main`)
+- [x] Criar estrutura base com Flet, venv e repositório Git (`main`)
 - [ ] Implementar a tela básica (Entrada de URL, Lista de Músicas e Controles)
 
 ## Módulo 2: Integração com YouTube
